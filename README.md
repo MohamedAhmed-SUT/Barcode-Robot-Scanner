@@ -1,6 +1,6 @@
 # Barcode-Robot-Scanner
 
-# Autonomous Robot with Barcode Scanner and Obstacle Avoidance
+## Autonomous Robot with Barcode Scanner and Obstacle Avoidance
 
 This Arduino-based project is a **smart autonomous robot** designed for **retail and warehouse assistance**. It combines **ultrasonic obstacle avoidance** with a **barcode scanner** and **LCD display** to identify products and show their details in real-time.
 
